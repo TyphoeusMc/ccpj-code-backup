@@ -1,2 +1,3 @@
 # ccpj-code-backup
-This is a repo for some AWS Lambda code of a tiny project
+This is a repo for some AWS Lambda code of a tiny project  
+Nothing should be expected
